@@ -1,0 +1,5 @@
+StateInitials::StateName::TaxRate
+TX::Texas::1.23
+WA::Washington::9.25
+KY::Kentucky::6.00
+CA::California::25.00

@@ -1,0 +1,3 @@
+Order Number::Customer Name::State Initials::State Name::Tax Rate::Product Type::Area::Cost Per Square Foot::Labor Cost Per Square Foot::Material Cost::Labor Cost::Tax::Total
+1::AMP Theatres, LLC.::KY::Kentucky::6.00::Tile::999.00::3.50::4.15::3496.50::4145.85::458.54::8100.89
+2::clarkxworld::WA::Washington::9.25::Wood::143.00::5.15::4.75::736.45::679.25::130.95::1546.65

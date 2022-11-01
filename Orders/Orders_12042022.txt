@@ -1,0 +1,3 @@
+Order Number::Customer Name::State Initials::State Name::Tax Rate::Product Type::Area::Cost Per Square Foot::Labor Cost Per Square Foot::Material Cost::Labor Cost::Tax::Total
+2::DarylxWorld::CA::California::25.00::Carpet::333.00::2.25::2.10::749.25::699.30::362.14::1810.69
+3::DNAProductions, INC.::KY::Kentucky::6.00::Tile::111.00::3.50::4.15::388.50::460.65::50.95::900.10

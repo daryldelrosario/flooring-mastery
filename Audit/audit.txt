@@ -1,0 +1,70 @@
+Tuesday, March 1, 2022 @ 08.32.39 : Accessed TSG CORP Product Menu - ADDED - Product Type: CARPET
+Tuesday, March 1, 2022 @ 08.32.49 : Accessed TSG CORP Product Menu - ADDED - Product Type: LAMINATE
+Tuesday, March 1, 2022 @ 08.33.00 : Accessed TSG CORP Product Menu - ADDED - Product Type: TILE
+Tuesday, March 1, 2022 @ 08.33.11 : Accessed TSG CORP Product Menu - ADDED - Product Type: WOOD
+Tuesday, March 1, 2022 @ 12.49.46 : Accessed TSG CORP Product Menu - ADDED - Product Type: HELLO KITTY
+Tuesday, March 1, 2022 @ 12.50.20 : Accessed TSG CORP Product Menu - UPDATED - Product Type: HELLO KITTY
+Tuesday, March 1, 2022 @ 13.58.26 : Accessed TSG Corp Tax Menu - ADDED - State Tax Rate: HE - Hello Kitty
+Tuesday, March 1, 2022 @ 13.58.51 : Accessed TSG Corp Tax Menu - ADDED - State Tax Rate: RE - Remove Me
+Tuesday, March 1, 2022 @ 14.07.55 : Accessed TSG Corp Tax Menu - REMOVED - State Tax Rate: ON - Ontario
+Tuesday, March 1, 2022 @ 16.44.30 : Accessed TSG Corp Tax Menu - ADDED - State Tax Rate: ON - Ontario
+Tuesday, March 1, 2022 @ 16.47.20 : Accessed TSG Corp Tax Menu - REMOVED - State Tax Rate: ON - Ontario
+Tuesday, March 1, 2022 @ 16.49.41 : Accessed TSG Corp Tax Menu - UPDATED - State Tax Rate: RE - Remove Me
+Tuesday, March 1, 2022 @ 16.50.17 : Accessed TSG Corp Tax Menu - UPDATED - State Tax Rate: RE - Remove Me
+Tuesday, March 1, 2022 @ 16.50.35 : Accessed TSG Corp Tax Menu - UPDATED - State Tax Rate: TX - Texas
+Tuesday, March 1, 2022 @ 16.52.17 : Accessed TSG CORP Product Menu - UPDATED - Product Type: HELLO KITTY
+Tuesday, March 1, 2022 @ 16.52.26 : Accessed TSG CORP Product Menu - REMOVED - Product Type: HELLO KITTY
+Tuesday, March 1, 2022 @ 16.52.37 : Accessed TSG Corp Tax Menu - REMOVED - State Tax Rate: HE - Hello Kitty
+Wednesday, March 2, 2022 @ 20.45.49 : Accessed TSG Corp Tax Menu - REMOVED - State Tax Rate: RE - Remove Me
+Wednesday, March 2, 2022 @ 20.46.24 : Accessed TSG CORP Product Menu - UPDATED - Product Type: WOOD
+Wednesday, March 2, 2022 @ 20.47.12 : Accessed TSG Corp Tax Menu - REMOVED - State Tax Rate: ON - Ontario
+Wednesday, March 2, 2022 @ 20.47.27 : Accessed TSG Corp Tax Menu - ADDED - State Tax Rate: WA - Washington
+Wednesday, March 2, 2022 @ 20.47.44 : Accessed TSG Corp Tax Menu - ADDED - State Tax Rate: KY - Kentucky
+Wednesday, March 2, 2022 @ 20.47.58 : Accessed TSG Corp Tax Menu - ADDED - State Tax Rate: CA - California
+Sunday, March 6, 2022 @ 13.56.05 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 04-01-2022
+Sunday, March 6, 2022 @ 13.58.53 : User Accessed Order Menu - EDITED Order Number: 1 for [MM-DD-YYYY] 04-01-2022
+Sunday, March 6, 2022 @ 14.03.43 : User Accessed Order Menu - REMOVED Order Number: 1 for [MM-DD-YYYY] 04-01-2022
+Sunday, March 6, 2022 @ 14.09.43 : User Accessed Order Menu - REMOVED Order Number: 2 for [MM-DD-YYYY] 12-04-2022
+Sunday, March 6, 2022 @ 22.34.12 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 12-04-2022
+Monday, March 7, 2022 @ 10.26.34 : User Accessed Order Menu - ADDED Order Number: 2 for [MM-DD-YYYY] 12-04-2022
+Monday, March 7, 2022 @ 10.28.25 : User Accessed Order Menu - REMOVED Order Number: 1 for [MM-DD-YYYY] 12-04-2022
+Monday, March 7, 2022 @ 10.28.32 : User Accessed Order Menu - REMOVED Order Number: 2 for [MM-DD-YYYY] 12-04-2022
+Monday, March 7, 2022 @ 10.55.38 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 12-04-2022
+Monday, March 7, 2022 @ 10.56.13 : User Accessed Order Menu - EDITED Order Number: 1 for [MM-DD-YYYY] 12-04-2022
+Monday, March 7, 2022 @ 10.56.56 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 07-01-2022
+Monday, March 7, 2022 @ 10.57.15 : User Accessed Order Menu - ADDED Order Number: 2 for [MM-DD-YYYY] 07-01-2022
+Monday, March 7, 2022 @ 10.57.27 : User Accessed Order Menu - REMOVED Order Number: 2 for [MM-DD-YYYY] 07-01-2022
+Monday, March 7, 2022 @ 16.19.35 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 11-24-2022
+Monday, March 7, 2022 @ 16.20.00 : User Accessed Order Menu - REMOVED Order Number: 1 for [MM-DD-YYYY] 11-24-2022
+Monday, March 7, 2022 @ 16.23.06 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 01-23-2023
+Monday, March 7, 2022 @ 16.27.54 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 01-01-2023
+Monday, March 7, 2022 @ 16.28.13 : User Accessed Order Menu - REMOVED Order Number: 1 for [MM-DD-YYYY] 01-01-2023
+Monday, March 7, 2022 @ 16.29.17 : User Accessed Order Menu - EDITED Order Number: 1 for [MM-DD-YYYY] 07-01-2022
+Monday, March 7, 2022 @ 16.34.25 : User Accessed Order Menu - ADDED Order Number: 2 for [MM-DD-YYYY] 12-04-2022
+Monday, March 7, 2022 @ 16.40.14 : User Accessed Order Menu - REMOVED Order Number: 1 for [MM-DD-YYYY] 01-23-2023
+Monday, March 7, 2022 @ 16.44.40 : User Accessed Order Menu - REMOVED Order Number: 1 for [MM-DD-YYYY] 12-04-2022
+Monday, March 7, 2022 @ 16.44.56 : User Accessed Order Menu - REMOVED Order Number: 2 for [MM-DD-YYYY] 12-04-2022
+Monday, March 7, 2022 @ 16.45.05 : User Accessed Order Menu - REMOVED Order Number: 1 for [MM-DD-YYYY] 07-01-2022
+Monday, March 7, 2022 @ 17.13.44 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 12-04-2022
+Monday, March 7, 2022 @ 17.14.11 : User Accessed Order Menu - ADDED Order Number: 2 for [MM-DD-YYYY] 12-04-2022
+Monday, March 7, 2022 @ 17.14.32 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 07-01-2022
+Monday, March 7, 2022 @ 17.14.51 : User Accessed Order Menu - ADDED Order Number: 2 for [MM-DD-YYYY] 07-01-2022
+Tuesday, March 8, 2022 @ 23.18.22 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 01-01-2023
+Tuesday, March 8, 2022 @ 23.23.06 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 07-07-2077
+Tuesday, March 8, 2022 @ 23.24.31 : Accessed TSG Corp Tax Menu - REMOVED - State Tax Rate: CA - California
+Tuesday, March 8, 2022 @ 23.25.38 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 09-09-2029
+Tuesday, March 8, 2022 @ 23.28.06 : Accessed TSG Corp Tax Menu - ADDED - State Tax Rate: CA - California
+Tuesday, March 8, 2022 @ 23.28.45 : User Accessed Order Menu - EDITED Order Number: 1 for [MM-DD-YYYY] 01-01-2023
+Wednesday, March 9, 2022 @ 18.35.18 : User Accessed Order Menu - REMOVED Order Number: 1 for [MM-DD-YYYY] 12-04-2022
+Wednesday, March 9, 2022 @ 18.39.52 : User Accessed Order Menu - ADDED Order Number: 3 for [MM-DD-YYYY] 12-04-2022
+Thursday, March 10, 2022 @ 08.45.32 : User Accessed Order Menu - ADDED Order Number: 1 for [MM-DD-YYYY] 03-11-2022
+Thursday, March 10, 2022 @ 08.47.02 : Accessed TSG Corp Tax Menu - ADDED - State Tax Rate: ON - Ontario
+Thursday, March 10, 2022 @ 08.47.40 : User Accessed Order Menu - ADDED Order Number: 2 for [MM-DD-YYYY] 07-07-2077
+Thursday, March 10, 2022 @ 08.48.21 : Accessed TSG Corp Tax Menu - UPDATED - State Tax Rate: ON - Ontario
+Thursday, March 10, 2022 @ 08.49.26 : User Accessed Order Menu - EDITED Order Number: 2 for [MM-DD-YYYY] 07-07-2077
+Thursday, March 10, 2022 @ 08.52.40 : User Accessed Order Menu - REMOVED Order Number: 2 for [MM-DD-YYYY] 07-07-2077
+Thursday, March 10, 2022 @ 08.52.56 : Accessed TSG Corp Tax Menu - REMOVED - State Tax Rate: ON - Ontario
+Thursday, March 10, 2022 @ 14.36.40 : User Accessed Order Menu - ADDED Order Number: 3 for [MM-DD-YYYY] 07-01-2022
+Thursday, March 10, 2022 @ 14.38.10 : User Accessed Order Menu - EDITED Order Number: 3 for [MM-DD-YYYY] 07-01-2022
+Thursday, March 10, 2022 @ 14.39.00 : User Accessed Order Menu - REMOVED Order Number: 3 for [MM-DD-YYYY] 07-01-2022
+Saturday, March 19, 2022 @ 19.35.47 : User Accessed Order Menu - REMOVED Order Number: 1 for [MM-DD-YYYY] 07-07-2077

@@ -1,0 +1,23 @@
+Last backed up : Saturday, March 19, 2022 @ 19.36.04
+
+Orders for Sunday, January 1, 2023
+Order Number::Customer Name::State Initials::State Name::Tax Rate::Product Type::Area::Cost Per Square Foot::Labor Cost Per Square Foot::Material Cost::Labor Cost::Tax::Total
+1::Happy, New Year. 2023::CA::California::25.00::Carpet::2023.00::2.25::2.10::4551.75::4248.30::2200.01::11000.06
+
+Orders for Friday, March 11, 2022
+Order Number::Customer Name::State Initials::State Name::Tax Rate::Product Type::Area::Cost Per Square Foot::Labor Cost Per Square Foot::Material Cost::Labor Cost::Tax::Total
+1::1992 Brother, dR.::TX::Texas::1.23::Tile::333.00::3.50::4.15::1165.50::1381.95::31.33::2578.78
+
+Orders for Friday, July 1, 2022
+Order Number::Customer Name::State Initials::State Name::Tax Rate::Product Type::Area::Cost Per Square Foot::Labor Cost Per Square Foot::Material Cost::Labor Cost::Tax::Total
+1::AMP Theatres, LLC.::KY::Kentucky::6.00::Tile::999.00::3.50::4.15::3496.50::4145.85::458.54::8100.89
+2::clarkxworld::WA::Washington::9.25::Wood::143.00::5.15::4.75::736.45::679.25::130.95::1546.65
+
+Orders for Sunday, September 9, 2029
+Order Number::Customer Name::State Initials::State Name::Tax Rate::Product Type::Area::Cost Per Square Foot::Labor Cost Per Square Foot::Material Cost::Labor Cost::Tax::Total
+1::Ninth, Chakra. 999::KY::Kentucky::6.00::Tile::876.00::3.50::4.15::3066.00::3635.40::402.08::7103.48
+
+Orders for Sunday, December 4, 2022
+Order Number::Customer Name::State Initials::State Name::Tax Rate::Product Type::Area::Cost Per Square Foot::Labor Cost Per Square Foot::Material Cost::Labor Cost::Tax::Total
+2::DarylxWorld::CA::California::25.00::Carpet::333.00::2.25::2.10::749.25::699.30::362.14::1810.69
+3::DNAProductions, INC.::KY::Kentucky::6.00::Tile::111.00::3.50::4.15::388.50::460.65::50.95::900.10

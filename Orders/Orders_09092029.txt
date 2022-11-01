@@ -1,0 +1,2 @@
+Order Number::Customer Name::State Initials::State Name::Tax Rate::Product Type::Area::Cost Per Square Foot::Labor Cost Per Square Foot::Material Cost::Labor Cost::Tax::Total
+1::Ninth, Chakra. 999::KY::Kentucky::6.00::Tile::876.00::3.50::4.15::3066.00::3635.40::402.08::7103.48

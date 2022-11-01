@@ -1,0 +1,2 @@
+StateInitials::StateName::TaxRate
+ON::Ontario::3.33

@@ -1,0 +1,1 @@
+Order Number::Customer Name::State Initials::State Name::Tax Rate::Product Type::Area::Cost Per Square Foot::Labor Cost Per Square Foot::Material Cost::Labor Cost::Tax::Total
